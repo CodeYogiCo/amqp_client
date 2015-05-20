@@ -1,4 +1,4 @@
-{application,amqp_client,
+{application,amqp_client_test,
              [{description,"RabbitMQ AMQP Client"},
               {vsn,"3.5.2"},
               {modules,[amqp_auth_mechanisms,amqp_channel,amqp_channel_sup,
